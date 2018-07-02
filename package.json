@@ -2,7 +2,7 @@
   "name": "puppy-memory-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bafzali.github.io/react-memory-game/",
+  "homepage": "https://bafzali.github.io/puppy-memory-game/",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.4.1",
